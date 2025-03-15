@@ -21,7 +21,7 @@ I'm a **Fullstack Web Developer** with a passion for building scalable, efficien
 - 🎨 Drawing
 
 ## 📫 Let's Connect
-- 📧 Email: [tevinowino.dev@gmail.com](mailto:tevinowino65@gmail.com)
+- 📧 Email: [tevinowino65@gmail.com](mailto:tevinowino65@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/tevinowino](www.linkedin.com/in/tevin-owino)
 
 ## 🔥 GitHub Stats
